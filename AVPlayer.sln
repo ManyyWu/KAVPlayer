@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AVPlayerWidget", "AVPlayerWidget\AVPlayerWidget.vcxproj", "{73F67A0E-B653-4A3B-85E7-0C46FC74F90F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KAVPlayer", "KAVPlayer\KAVPlayer.vcxproj", "{B12702AD-ABFB-343A-A199-8E24837244A3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{73F67A0E-B653-4A3B-85E7-0C46FC74F90F} = {73F67A0E-B653-4A3B-85E7-0C46FC74F90F}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73F67A0E-B653-4A3B-85E7-0C46FC74F90F}.Debug|x64.ActiveCfg = Debug|x64
+		{73F67A0E-B653-4A3B-85E7-0C46FC74F90F}.Debug|x64.Build.0 = Debug|x64
+		{73F67A0E-B653-4A3B-85E7-0C46FC74F90F}.Debug|x86.ActiveCfg = Debug|x64
+		{73F67A0E-B653-4A3B-85E7-0C46FC74F90F}.Release|x64.ActiveCfg = Release|x64
+		{73F67A0E-B653-4A3B-85E7-0C46FC74F90F}.Release|x64.Build.0 = Release|x64
+		{73F67A0E-B653-4A3B-85E7-0C46FC74F90F}.Release|x86.ActiveCfg = Release|x64
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Debug|x64.ActiveCfg = Debug|x64
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Debug|x64.Build.0 = Debug|x64
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Debug|x86.ActiveCfg = Debug|x64
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Release|x64.ActiveCfg = Release|x64
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Release|x64.Build.0 = Release|x64
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Release|x86.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36B9DAF0-FAB0-4757-ABC3-EDDC4EEC6221}
+	EndGlobalSection
+EndGlobal

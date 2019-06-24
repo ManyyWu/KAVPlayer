@@ -1,0 +1,67 @@
+[I] ==================================
+[I] 周二 5月 28 18:27:04 2019
+[I] Application Path: C:/Users/openkt/Desktop/毕业设计/AVPlayer/x64/Release
+[I] Initialized software renderer.
+[I] File C:/Users/openkt/Desktop/毕业设计/AVPlayer/videos/1.MOV is open.
+[I] ==================================
+[I] 周二 5月 28 19:41:14 2019
+[I] Application Path: C:/Users/openkt/Desktop/毕业设计/AVPlayer/x64/Release
+[I] Initialized software renderer.
+[I] File C:/Users/openkt/Desktop/毕业设计/AVPlayer/videos/1.MOV is open.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] File C:/Users/openkt/Desktop/毕业设计/AVPlayer/videos/1280x720_25fps_10s.h265 is open.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] frame drop.
+[I] ==================================
+[I] 周日 6月 2 16:46:26 2019
+[I] Application Path: C:/Users/openkt/Desktop/毕业设计/AVPlayer/x64/Release
+[I] Initialized software renderer.
+[I] ==================================
+[I] 周日 6月 2 16:46:52 2019
+[I] Application Path: C:/Users/openkt/Desktop/毕业设计/AVPlayer/x64/Release
+[I] Initialized software renderer.
+[F] [vdev.cpp: 161]update texture failed: Invalid texture.
+[F] [AVPlayerWidget.cpp: 204]render frame failed.
