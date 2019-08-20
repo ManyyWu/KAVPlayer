@@ -1,0 +1,20 @@
+1. 变速不变调，soundtouch库
+2. 测试高帧率视频，测试高采样率音频
+3. 测试所有音频采样参数和视频参数
+4. 更改音频流、视频流、字幕流、丢帧、无限缓存等选项后的操作
+14. 显示帧率
+21. 音频时钟精度audio_fill_proc 时钟计算错误SDL_GetQueuedAudioSize  SDL_ClearQueuedAudio
+24. 所有回调函数发生误时emit
+50, seek速度问题，在fq，直接读取，在pktq，直接解码
+52. 内存泄漏
+56. 截图
+57. log.cpp buffer大小问题
+58. blend抗锯齿
+60. 日志字符串加err_code
+61. 日志系统，浏览器收藏栏, 删除部分出错位置记录, 重要函数执行成功时写日志, 重新检查所有日志
+63. 详细日志，如打开文件失败，文件不存在，open_input_file, open_decoder等函数返回的错误
+64. 暂停，开始，停止速度优化，先统一激活线程，再按序wait
+70. open前设置选项，如volume, hw_acc，播放前设置音量,frame_drop等
+85. 播放图片
+
+qt不允许在工作线程中更新界面，可通过信号槽控制更新。https://blog.csdn.net/wb175208/article/details/82634466
